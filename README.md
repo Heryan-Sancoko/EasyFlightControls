@@ -2,7 +2,7 @@
 A simple approach to tackling flight controls for a mobile device
 
 This project was made in unity version 2018.4.7f1
-The main .cs file you need if you want to ge things started
+The main .cs file you need if you want to get things started
 quickly is called FlightBehaviour.cs
 
 The code was built for mobile devices, but can be quickly
